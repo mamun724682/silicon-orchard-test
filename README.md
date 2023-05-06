@@ -4,7 +4,7 @@
 
 ## Installation Instruction
 
-`Server Requirements:` Php server & CLI version >= 8.1 <br>
+`Server Requirements:` Php server & CLI version >= 8.1 and Node version >= 16 <br>
 
 - clone this git repository <br>
 - copy .env.example to .env <br>
